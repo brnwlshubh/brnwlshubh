@@ -17,4 +17,4 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brnwlshubh&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![visitors](https://visitor-badge.deta.dev/badge?page_id=page.id&left_color=red&right_color=green)
+![visitors](https://visitor-badge.deta.dev/badge?page_id=brnwlshubh&left_color=red&right_color=green)
