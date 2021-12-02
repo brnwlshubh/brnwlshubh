@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋, my name is Shubhansh
+### Hi there 👋,
 
 
 
