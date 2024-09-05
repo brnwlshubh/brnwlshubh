@@ -22,3 +22,6 @@
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=brnwlshubh)
+
+
+[![Shubhansh profile views](https://u8views.com/api/v1/github/profiles/69040506/views/day-week-month-total-count.svg)](https://u8views.com/github/brnwlshubh)
